@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-gfx"
+    }
+  },
+  "defaultProject": "ng-gfx",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
